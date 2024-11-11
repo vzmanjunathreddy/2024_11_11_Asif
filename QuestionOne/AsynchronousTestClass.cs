@@ -10,7 +10,7 @@ namespace QuestionOne
     {
         public async Task<string> FetchDataFromAPI1()
         {
-            return string.Empty;
+            return string.Empty; 
         }
 
         public async Task<string> FetchDataFromAPI2()
